@@ -1,3 +1,3 @@
-module github.com/iovisor/gobpf
+module github.com/kiran-sama/gobpf
 
 go 1.15
